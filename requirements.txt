@@ -1,0 +1,8 @@
+pandas>=2.0
+matplotlib>=3.7
+statsmodels>=0.14
+catboost>=1.2
+statsforecast>=1.7
+datasetsforecast>=0.0.8
+jupyterlab>=4.0
+ipykernel>=6.0
